@@ -18,7 +18,4 @@ public class HandlingFileUpload {
 		driver.findElement(By.id("fileupload")).sendKeys("C:\\Users\\Cliffex-Lead\\Downloads\\images.jpg");
 	
 	}
-	
-	
-
 }

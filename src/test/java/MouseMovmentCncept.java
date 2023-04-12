@@ -40,9 +40,6 @@ public class MouseMovmentCncept {
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("//*[@id=\"main-container\"]/div/div[1]/div[2]/div[1]/div/div[2]/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div/div[1]/a/div/div")).click();
 		
-		
-		
-		
 	
 	}
 	
